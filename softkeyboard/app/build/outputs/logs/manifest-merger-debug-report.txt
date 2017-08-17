@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kunwa\.android\build-cache\27a77c2ba783afbaab08253ee8620c2bdc3e1dbf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\6e31228feadd2bd56d1b0b12bda6c43d0c1b6e4f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\af8076f3dd14c387258fa6b98f6dc64d2ee60365\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kunwa\.android\build-cache\4e4b5c9b7f26007181026c2bcda236ac7433d796\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kunwa\.android\build-cache\eaa1e204b3a3f626ee5a5b1dcd8155798b62a0bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kunwa\.android\build-cache\454dd639806af8dd55462c2153ad6cf63f9b0bd4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kunwa\.android\build-cache\ebe06a2c4a7773b15f461d042d9d529a26397a25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kunwa\.android\build-cache\79c09f4135becdc26e37d2c57b7e9ff71629b313\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kunwa\.android\build-cache\40e40624e29cb387f240d154640fee178d6e8cf3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kunwa\.android\build-cache\3bf046cda445fe0e3b6eb434fbcdc8f372c593b5\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:8:9-51
+	android:theme
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:6:9-40
+service#com.example.android.softkeyboard.SoftKeyboard
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:9:9-19:19
+	android:permission
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:11:13-70
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:10:13-41
+intent-filter#android.view.InputMethod
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:12:13-14:29
+action#android.view.InputMethod
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:13:17-67
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:13:25-64
+meta-data#android.view.im
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:16:13-18:50
+	android:resource
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:18:17-47
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:17:17-47
+activity#com.example.android.softkeyboard.MainActivity
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kunwa\.android\build-cache\27a77c2ba783afbaab08253ee8620c2bdc3e1dbf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\6e31228feadd2bd56d1b0b12bda6c43d0c1b6e4f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\af8076f3dd14c387258fa6b98f6dc64d2ee60365\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kunwa\.android\build-cache\4e4b5c9b7f26007181026c2bcda236ac7433d796\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kunwa\.android\build-cache\eaa1e204b3a3f626ee5a5b1dcd8155798b62a0bd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kunwa\.android\build-cache\454dd639806af8dd55462c2153ad6cf63f9b0bd4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kunwa\.android\build-cache\ebe06a2c4a7773b15f461d042d9d529a26397a25\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kunwa\.android\build-cache\79c09f4135becdc26e37d2c57b7e9ff71629b313\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kunwa\.android\build-cache\ba425c4d30ffc8325e5e44038fbd5253bba909f6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kunwa\.android\build-cache\40e40624e29cb387f240d154640fee178d6e8cf3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kunwa\.android\build-cache\3bf046cda445fe0e3b6eb434fbcdc8f372c593b5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kunwa\Documents\xSofTech\BetaKeybaord\SoftKeyboard_Android_Studio\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kunwa\.android\build-cache\27a77c2ba783afbaab08253ee8620c2bdc3e1dbf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\6e31228feadd2bd56d1b0b12bda6c43d0c1b6e4f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kunwa\.android\build-cache\af8076f3dd14c387258fa6b98f6dc64d2ee60365\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\kunwa\.android\build-cache\4e4b5c9b7f26007181026c2bcda236ac7433d796\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kunwa\.android\build-cache\eaa1e204b3a3f626ee5a5b1dcd8155798b62a0bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kunwa\.android\build-cache\454dd639806af8dd55462c2153ad6cf63f9b0bd4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kunwa\.android\build-cache\ebe06a2c4a7773b15f461d042d9d529a26397a25\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kunwa\.android\build-cache\79c09f4135becdc26e37d2c57b7e9ff71629b313\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\kunwa\.android\build-cache\ba425c4d30ffc8325e5e44038fbd5253bba909f6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kunwa\.android\build-cache\40e40624e29cb387f240d154640fee178d6e8cf3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kunwa\.android\build-cache\3bf046cda445fe0e3b6eb434fbcdc8f372c593b5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\kunwa\.android\build-cache\4d5b2b0664e4271b88d42d513fb4b7c9f3dafba8\output\AndroidManifest.xml:26:9-47
