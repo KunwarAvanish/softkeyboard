@@ -3,6 +3,10 @@
     package="com.example.android.softkeyboard">
 
     <application
+                 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    
         android:theme="@style/AppTheme"
         android:label="@string/ime_name"
         android:icon="@drawable/ic_launcher_type4">
